@@ -10,5 +10,9 @@
   {
     "role": "ai_message",
     "content": "Certainly! I'll create a simple \"Hello, World!\" application without any additional description. Let's update the main page to display this classic greeting.\n\n\n\nThis change updates the main page to display \"Hello, World!\" centered on a white background.\n</HST-code>\n\nThe main page now displays a simple \"Hello, World!\" message."
+  },
+  {
+    "role": "user",
+    "content": "simple hello world no decription"
   }
 ]
